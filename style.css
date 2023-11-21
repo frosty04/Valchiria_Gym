@@ -1,0 +1,31 @@
+.site-header {
+    background-color: rgba(0, 0, 0, .85);
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    font-family: 'Roboto', sans-serif;
+    font-size: large !important;
+}
+
+.navbar-nav > li{
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+  }
+
+.about, .coach {
+    padding-top: 2rem !important;
+    background-color: rgba(0, 0, 0, .85);
+    color: white;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+h5 {
+    padding-top: 1rem;
+}
+
+p {
+    padding-top: 1rem !important;
+}
