@@ -9,11 +9,11 @@ a {
 }
 
 .navbar-nav > li{
-    padding-left: 2.5rem;
-    padding-right: 2.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
-.about, .coach, .contatti {
+.about, .coach, .contatti, .prezzi {
     padding-top: 2rem !important;
     background-color: rgba(0, 0, 0, .85);
     color: white;
@@ -28,4 +28,8 @@ h5 {
 
 p {
     padding-top: 1rem !important;
+}
+
+h5, p {
+    display: inline;
 }
